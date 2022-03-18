@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/AppTheme.NoActionBar"
+    tools:context=".HomePage"
+    android:id="@+id/parent_layout">
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/home_page_appbar"
+        app:title="@{@string/home_page}" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/creator_info_anim"
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/audio_card"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="blue-bubble_for_home_page.json"
+        app:lottie_loop="true"
+        tools:layout_editor_absoluteX="0dp" />
+
+
+    <!--    <FrameLayout-->
+<!--        android:layout_width="500dp"-->
+<!--        android:layout_height="281dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/vision_card">-->
+
+<!--        <com.airbnb.lottie.LottieAnimationView-->
+<!--            android:id="@+id/creator_info"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            app:lottie_autoPlay="true"-->
+<!--            app:lottie_fileName="blue-bubble_for_home_page.json"-->
+<!--            app:lottie_loop="true" />-->
+<!--    </FrameLayout>-->
+
+
+    <TextView
+        android:id="@+id/creator_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/creeater_info"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/creator_info_anim"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/creator_info_anim"
+        app:layout_constraintVertical_bias="0.547" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/vision_card"
+        android:layout_width="168dp"
+        android:layout_height="168dp"
+        android:background="@drawable/card_design"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/audio_card"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include2"
+        app:layout_constraintVertical_bias="0.25">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="top"
+                android:layout_marginTop="1pt"
+                android:layout_weight="1"
+                app:lottie_autoPlay="true"
+                app:lottie_fileName="home_page_vision.json"
+                app:lottie_loop="true" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textview_digital_vision"
+                android:layout_gravity="bottom"
+                android:layout_weight="0.2"
+                android:text="@string/digital_vision"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                tools:ignore="RtlCompat" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/audio_card"
+        android:layout_width="168dp"
+        android:layout_height="168dp"
+        android:background="@drawable/card_design"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/vision_card"
+        app:layout_constraintTop_toBottomOf="@+id/include2"
+        app:layout_constraintVertical_bias="0.25">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="top"
+                android:layout_marginTop="1pt"
+                android:layout_weight="1"
+                app:lottie_autoPlay="true"
+                app:lottie_fileName="home_page_digital_audio.json"
+                app:lottie_loop="true" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:id="@+id/textview_sound_detector"
+                android:layout_weight="0.2"
+                android:text="@string/sound_recognition"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                tools:ignore="RtlCompat" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/layout_home_page_appbar.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/layout/home_page_appbar.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/anim_to_home_transition.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/anim/to_home_transition.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/transition_to_home.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/transition/to_home.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable_pressed_back_symbol.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable/pressed_back_symbol.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/anim_splash_half_move.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/anim/splash_half_move.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable_unpressed_back_symbol.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable/unpressed_back_symbol.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable_back_button_anim.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable/back_button_anim.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable_action_bar_round.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable/action_bar_round.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/anim_home_from_transition.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/anim/home_from_transition.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/layout_home_page.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/layout/home_page.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA/app/build/intermediates/res/merged/debug/drawable_card_design.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA/app/src/main/res/drawable/card_design.xml"
+    }
+]

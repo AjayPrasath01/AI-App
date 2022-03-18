@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MAD App</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="ai">AI</string>
+    <string name="powered">Powered</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="digital_vision">Digital Vision</string>
+    <string name="sound_recognition">Sound Recognition</string>
+    <string name="home_page">Home Page</string>
+    <string name="digital_audio">Digital Audio</string>
+    <string name="background_noise">Background Noise</string>
+    <string name="predicted_labels">predicted_labels</string>
+    <string name="creeater_info">Created By\n\tAjay Prasath R\n\tRA1911002010126\n\tAjay Adithiya Kumar\n\tRA1911002010140</string>
+    <string name="mad_app">MAD App</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="appbar_color">#2196F3</color>
+    <color name="white">#ffff</color>
+    <color name="button_pressed_anim">#FFFFFF</color>
+    <color name="focus_bg_color">#66FFFFFF</color>
+
+    <color name="light_blue">#5d85c8</color>
+</resources>

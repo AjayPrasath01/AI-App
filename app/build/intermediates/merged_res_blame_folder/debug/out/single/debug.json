@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/layout_home_page.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/layout/home_page.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_slide_out_up.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_vision_predition_bg.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/vision_predition_bg.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_round_edge.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/round_edge.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_fade_in_powered.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/fade_in_powered.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-hdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_back_button_anim.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/back_button_anim.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_slide_in_pause_out.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/slide_in_pause_out.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/font_hanalei.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/font/hanalei.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_text_switcher_out.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/text_switcher_out.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_unpressed_back_symbol.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/unpressed_back_symbol.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_slide_in_up.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_card_design.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/card_design.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/transition_fade_in.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/transition/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/transition_fade_out.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/transition/fade_out.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_slide_down_predition_audio.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/slide_down_predition_audio.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_action_bar_round.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/action_bar_round.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/layout_probability_bars.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/layout/probability_bars.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxxhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/layout_activity_digital_vision.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/layout/activity_digital_vision.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/layout_home_page_appbar.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/layout/home_page_appbar.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/font_bungee.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/font/bungee.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_splash_half_move.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/splash_half_move.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_fade_in_digital_pre.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/fade_in_digital_pre.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_fade_out_digital_pre.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/fade_out_digital_pre.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_pressed_back_symbol.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/pressed_back_symbol.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_text_switching_in.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/text_switching_in.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-mdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/layout_activity_digital_audio.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/layout/activity_digital_audio.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_slide_up_predition_audio.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/slide_up_predition_audio.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/drawable_focus_bg.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/drawable/focus_bg.xml"
+    },
+    {
+        "merged": "/Users/ajayprasath/Downloads/AA-2/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Users/ajayprasath/Downloads/AA-2/app/src/main/res/anim/fade_out.xml"
+    }
+]
