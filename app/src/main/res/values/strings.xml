@@ -10,6 +10,6 @@
     <string name="digital_audio">Digital Audio</string>
     <string name="background_noise">Background Noise</string>
     <string name="predicted_labels">predicted_labels</string>
-    <string name="creeater_info">Created By\n\tAjay Prasath R\n\tRA1911002010126\n\tAjay Adithiya Kumar\n\tRA1911002010140</string>
+    <string name="creeater_info">Created By\n\tAjay Prasath R</string>
     <string name="mad_app">MAD App</string>
 </resources>
